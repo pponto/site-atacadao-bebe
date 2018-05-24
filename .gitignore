@@ -1,3 +1,4 @@
+.gitignore
 enviar.php
 /PHPMailer
 /js
