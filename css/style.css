@@ -968,23 +968,29 @@ footer {
 }
 
 .navbar {
-	display: flex;
+  display: flex;
   flex-wrap: nowrap;
   justify-content: right;
   margin: 10px 0;
   padding-right: 25px;
-	font-size: 2rem;
+  font-size: 2rem;
 }
 
 .navbar--icon {
+	  font-size: 2rem;
+	  margin: 10px 0;
 	padding: 10px;
 }
 
 .navbar--icon2 {
+		  font-size: 2rem;
+	  margin: 10px 0;
 	padding: 10px 10px 0px 40px;
 }
 
 .navbar--icon3 {
+		  font-size: 2rem;
+	  margin: 10px 0;
 	padding: 10px 10px 0px 40px;
 }
 
